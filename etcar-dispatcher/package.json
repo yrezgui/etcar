@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yrezgui/etcar-dispatcher.git"
+    "url": "https://github.com/yrezgui/etcar.git"
   },
   "keywords": [
     "flux",
@@ -17,9 +17,9 @@
   "author": "Yacine Rezgui <rezgui.y@gmail.com>",
   "license": "Apache Licence v2",
   "bugs": {
-    "url": "https://github.com/yrezgui/etcar-dispatcher/issues"
+    "url": "https://github.com/yrezgui/etcar/issues"
   },
-  "homepage": "https://github.com/yrezgui/etcar-dispatcher",
+  "homepage": "https://github.com/yrezgui/etcar",
   "dependencies": {
     "flux": "^2.0.1"
   }
