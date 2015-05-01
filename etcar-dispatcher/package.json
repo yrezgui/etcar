@@ -1,0 +1,26 @@
+{
+  "name": "etcar-dispatcher",
+  "version": "1.0.0",
+  "description": "Flux dispatcher ready to use (based on the ReactJS one)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yrezgui/etcar-dispatcher.git"
+  },
+  "keywords": [
+    "flux",
+    "dispatcher"
+  ],
+  "author": "Yacine Rezgui <rezgui.y@gmail.com>",
+  "license": "Apache Licence v2",
+  "bugs": {
+    "url": "https://github.com/yrezgui/etcar-dispatcher/issues"
+  },
+  "homepage": "https://github.com/yrezgui/etcar-dispatcher",
+  "dependencies": {
+    "flux": "^2.0.1"
+  }
+}
