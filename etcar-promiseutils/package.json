@@ -1,0 +1,26 @@
+{
+  "name": "etcar-promiseutils",
+  "version": "1.0.0",
+  "description": "Promise utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yrezgui/etcar.git"
+  },
+  "keywords": [
+    "promise",
+    "stream"
+  ],
+  "author": "Yacine Rezgui <rezgui.y@gmail.com>",
+  "license": "Apache Licence v2",
+  "bugs": {
+    "url": "https://github.com/yrezgui/etcar/issues"
+  },
+  "homepage": "https://github.com/yrezgui/etcar",
+  "dependencies": {
+    "es6-promise": "^2.1.1"
+  }
+}
